@@ -62,7 +62,7 @@
 . $PSScriptRoot/Public/UnitTesting.ps1
 . $PSScriptRoot/Public/Update-OAIAssistant.ps1
 . $PSScriptRoot/Public/Wait-OAIOnRun.ps1
-
+. $PSScriptRoot/Public/ConvertFrom-GPTMarkdownTable.ps1
 $script:EnableUnitTesting = $false
 $script:InvokeOAIUnitTestingData = $null
 
