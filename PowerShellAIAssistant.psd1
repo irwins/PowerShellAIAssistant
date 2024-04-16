@@ -24,6 +24,7 @@ PowerShellAIAssistant integrates OpenAI's AI Assistants into PowerShell, leverag
         'Clear-OAIAssistants'
         'Clear-OAIFiles'
         'ConvertFrom-FunctionDefinition'
+        'ConvertFrom-GPTMarkdownTable'
         'ConvertFrom-OAIAssistant'
         'ConvertTo-OAIAssistant'
         'ConvertTo-OpenAIFunctionSpec'
@@ -83,7 +84,6 @@ PowerShellAIAssistant integrates OpenAI's AI Assistants into PowerShell, leverag
         'Test-OAIAssistantId'
         'Update-OAIAssistant'
         'Wait-OAIOnRun'
-        'ConvertFrom-GPTMarkdownTable'
     )
 
     AliasesToExport   = @(

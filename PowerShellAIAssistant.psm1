@@ -6,6 +6,7 @@
 . $PSScriptRoot/Public/Clear-OAIAssistants.ps1
 . $PSScriptRoot/Public/Clear-OAIFiles.ps1
 . $PSScriptRoot/Public/ConvertFrom-FunctionDefinition.ps1
+. $PSScriptRoot/Public/ConvertFrom-GPTMarkdownTable.ps1
 . $PSScriptRoot/Public/ConvertFrom-OAIAssistant.ps1
 . $PSScriptRoot/Public/ConvertTo-OAIAssistant.ps1
 . $PSScriptRoot/Public/ConvertTo-OpenAIFunctionSpec.ps1
@@ -62,7 +63,7 @@
 . $PSScriptRoot/Public/UnitTesting.ps1
 . $PSScriptRoot/Public/Update-OAIAssistant.ps1
 . $PSScriptRoot/Public/Wait-OAIOnRun.ps1
-. $PSScriptRoot/Public/ConvertFrom-GPTMarkdownTable.ps1
+
 $script:EnableUnitTesting = $false
 $script:InvokeOAIUnitTestingData = $null
 
