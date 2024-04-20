@@ -1,3 +1,28 @@
+![alt text](Repo-Closing.png)
+<br/>
+<br/>
+
+## Notice of Repository Closure
+
+This repository is now closed. I have moved it to a new home to better serve its needs and continue development. 
+
+Thank you for your support and collaboration!
+
+The new repository includes key updates from the latest OpenAI announcements. Please visit [PSAI](https://github.com/dfinke/PSAI) to stay updated and contribute. 
+
+<p align="center">
+<img src="PSAI.png" alt="drawing" width="200"/>
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <p align="center">  
   <!-- <a href="https://twitter.com/dfinke">
